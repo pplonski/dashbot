@@ -2,3 +2,4 @@ mljar-mercury
 plotly
 pandas
 gunicorn
+matplotlib
